@@ -122,7 +122,7 @@ void simulate(int cache_size, int block_size, const char* FileName)
 
 int main()
 {
-	//simulate(4*K, 16, "ICACHE.txt");
+	//simulate(4KB, 16B, "ICACHE.txt");
 	int i, j, k;
 	int testCacheSize[] = {4, 16, 64, 256};
 	int testBlockSize[] = {16, 32, 64, 128, 256};
