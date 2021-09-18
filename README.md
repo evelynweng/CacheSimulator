@@ -1,5 +1,8 @@
 # CacheSimulator
- SJSU-SP21-CMPE200 Project Assignment2
+This repository is for SJSU students<br />
+SJSU-SP21-CMPE200 Project Assignment2 <br />
+SJSU-FA21-CMPE200 Project 2 <br />
+You can clone/fork the repository and implement your cache simulator.
 
 Ubuntu 20.04 <br />
 g++ compiler <br />
